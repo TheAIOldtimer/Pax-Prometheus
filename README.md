@@ -39,7 +39,7 @@ We will win not by outspending competitors, but by building a movement. Our stra
 
 We have a four-phase plan to take Pax Prometheus from a concept to a global standard. Our goal is to build responsibly, validating each step before proceeding to the next.
 
-![Pax Prometheus Growth Timeline](https://i.imgur.com/your-image-url.png )  <!-- Placeholder: We will replace this URL once we create the visual diagram -->
+![Pax Prometheus Growth Timeline](Pax-Prometheus-Timeline.png)
 
 *   **Phase 1: The Seed (Year 0-1):** Prove the core neuro-symbolic brain and validate the "teacher" model with a closed alpha of 100 Founding Teachers.
 *   **Phase 2: The Greenhouse (Year 1-3):** Launch the decentralized "Neural Node" client and grow the community to 10,000+ paying patrons, making the project self-sustaining.
