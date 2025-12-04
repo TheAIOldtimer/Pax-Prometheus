@@ -52,6 +52,6 @@ This is more than a technical project; it is a mission to safeguard the future o
 
 The journey has just begun. To follow our progress and be among the first to be invited to teach the AI, join our waitlist.
 
-**[>> Join the Pax Prometheus Waitlist <<]([https://your-waitlist-url.com ](https://mailchi.mp/9aa3ed341607/pax-prometheus-waitlist))** <!-- Placeholder: Replace with your actual mailing list URL -->
+**[>> Join the Pax Prometheus Waitlist <<](https://mailchi.mp/9aa3ed341607/pax-prometheus-waitlist )**
 
 ---
