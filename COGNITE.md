@@ -111,9 +111,3 @@ cognite> show
 This session demonstrates the entire Pax-Prometheus framework in action: a goal was defined, a plan was proposed by the runtime (Prometheus), and it was paused until explicit approval was granted by the human user (Pax).
 Plain Text
 
-
----
-*   This is perfect. Let's rename "human_in_loop" to "pax_approval_required" in the code to match the new documentation.
-*   Let's improve the planner. A smarter Prometheus needs better dependency ordering.
-*   What's the next logical feature of the Pax-Prometheus framework we should build into Cognite?
-
